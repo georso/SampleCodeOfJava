@@ -13,7 +13,8 @@ public class GetMethod {
 		System.out.println("Nokia is no 3");
 	}
 	private void samsung() {
-		System.out.println("Samsung is no4");
+		System.out.println("Samsung is no 4");
+		System.out.println("Samsung is no55");
 	}
 	public static void main (String[] args) {
 		GetMethod g = new GetMethod();
