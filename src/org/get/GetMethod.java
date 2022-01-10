@@ -14,6 +14,7 @@ public class GetMethod {
 	}
 	private void samsung() {
 		System.out.println("Samsung is no 4");
+		System.out.println("Samsung is no55");
 	}
 	public static void main (String[] args) {
 		GetMethod g = new GetMethod();
@@ -22,5 +23,6 @@ public class GetMethod {
 		g.nokia();
 		g.samsung();
 	}
+	
 
 }
