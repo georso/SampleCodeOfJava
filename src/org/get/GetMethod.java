@@ -15,12 +15,16 @@ public class GetMethod {
 	private void samsung() {
 		System.out.println("Samsung is no4");
 	}
+	private void vodofone() {
+		System.out.println("Vodofone is no5");
+	}
 	public static void main (String[] args) {
 		GetMethod g = new GetMethod();
 		g.apple();
 		g.iPhone();
 		g.nokia();
 		g.samsung();
+		g.vodofone();
 	}
 	
 
